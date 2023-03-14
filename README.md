@@ -17,17 +17,10 @@ composer require barryvdh/laravel-debugbar --dev
 composer require theanik/laravel-more-command --dev
 ```
 
-# Laravel steps
-
-## install
-composer create-project laravel/laravel laravelapp
-Install the Debug Bar (Optional - recommended)
-
-## Future stuff
-find video explaining laravel vite
-
-
-
+LDAP Record (Optional not sure if this will work testing)
+```
+composer require directorytree/ldaprecord
+```
 
 
 
